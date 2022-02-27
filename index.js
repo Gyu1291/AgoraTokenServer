@@ -6,8 +6,8 @@ const PORT = 8080;
 //const APP_ID = process.env.APP_ID;
 //const APP_Certificate = process.env.APP_Certificate;
 
-const APP_ID = '67cb00c63d4341ec8aba2d7de7283bbd';
-const APP_Certificate = '9b101bd79f1a4b2a9aa9b277fae84381';
+const APP_ID = 'APP_ID';
+const APP_Certificate = 'APP_Certificate';
 
 
 const app = express();
