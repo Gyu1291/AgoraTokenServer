@@ -1,0 +1,24 @@
+{
+  "name": "agoratokenserver",
+  "version": "1.0.0",
+  "description": "agoratokenserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyu1291/AgoraTokenServer.git"
+  },
+  "author": "SungyuChoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gyu1291/AgoraTokenServer/issues"
+  },
+  "homepage": "https://github.com/Gyu1291/AgoraTokenServer#readme",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "express": "^4.17.3"
+  }
+}
